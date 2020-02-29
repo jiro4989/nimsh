@@ -13,7 +13,7 @@ nimsh is inspired by `lsh <https://github.com/brenns10/lsh>`_.
 Usage
 =====
 
-.. code-blocK:: shell
+.. code-block:: shell
    nimble build
    ./nimsh
 
